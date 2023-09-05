@@ -9,7 +9,7 @@
       "id": "Mr-ZhangL.sub_store_mega",
       "name": "Sub-Store Mega",
       "descs_html": [
-        "<a href=\"https://raw.githubusercontent.com/Mr-ZhangL/10010V3/main/surge/modules/sub-store-scripts/mega/README.md">查看文档</a>",
+        "<a href=\"https://github.com//Mr-ZhangL/10010V3/main/surge/modules/sub-store-scripts/mega/">查看文档</a>",
         "Sub-Store 脚本使用方法: 打开 Sub-Store => 订阅 => 编辑 => 节点操作+ => 脚本操作 => 链接 => 粘贴<a href=\"https://raw.githubusercontent.com/Mr-ZhangL/scripts/main/surge/modules/sub-store-scripts/mega/index.js\">脚本链接</a> => 保存",
         "<a onClick=\"window.location.reload(true);\">刷新</a>"
       ],
@@ -257,7 +257,7 @@
       "id": "Mr-ZhangL.10010v3",
       "name": "联通余量(v3)",
       "descs_html": [
-        "<a href=\"https://raw.githubusercontent.com/Mr-ZhangL/10010V3/main/surge/modules/10010v3/README.md">查看文档</a>",
+        "<a href=\"https://github.com//Mr-ZhangL/10010V3/main/surge/modules/10010v3/">查看文档</a>",
         "<b>登录方式一</b>",
         "仅填写手机号密码和appId 保存 即可自动登录",
         "<b>登录方式二</b>",
